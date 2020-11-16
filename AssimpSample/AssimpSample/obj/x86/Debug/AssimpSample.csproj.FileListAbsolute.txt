@@ -1,0 +1,160 @@
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Korisnik\Downloads\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+G:\GRAFIKA\Projekat\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+G:\GRAFIKA\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+D:\Veljko\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
