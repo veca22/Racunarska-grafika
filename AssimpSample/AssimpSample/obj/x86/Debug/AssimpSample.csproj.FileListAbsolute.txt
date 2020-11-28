@@ -158,3 +158,27 @@ G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSampl
 G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
 G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
 G:\GRAFIKA\PF2S13.1\PF1S13.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+G:\Racunarska-grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+G:\Racunarska-grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb

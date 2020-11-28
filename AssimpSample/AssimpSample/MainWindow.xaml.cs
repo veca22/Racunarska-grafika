@@ -131,19 +131,19 @@ namespace AssimpSample
         private void r_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             if (m_world != null)
-                m_world.B = (float)e.NewValue;
+                m_world.R = (float)e.NewValue;
         }
 
         private void g_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             if (m_world != null)
-                m_world.R = (float)e.NewValue;
+                m_world.G = (float)e.NewValue;
         }
 
         private void b_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
             if (m_world != null)
-                m_world.R = (float)e.NewValue;
+                m_world.B = (float)e.NewValue;
         }
     }
 }
